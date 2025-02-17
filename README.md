@@ -32,28 +32,28 @@ To view the project locally:
    ```bash
    git clone https://github.com/your-username/portfolio-website.git
 Navigate to the project folder:
-bash
-Copy
-Edit
+```bash
 cd portfolio-website
 Open index.html in your browser to view the website.
-💻 Sections
-About Me
+## 💻 Sections
+
+### About Me
 A brief introduction about my background, expertise, and interests. Includes a profile picture with a hover zoom effect.
 
-Skills
+### Skills
 A list of technical skills displayed in colorful, interactive cards.
 
-Projects
+### Projects
 A showcase of completed projects with a clean, card-based design.
 
-Contact
+### Contact
 A contact form for users to send inquiries or connect professionally.
 
-Footer
+### Footer
 Social media icons linked to my profiles, with dynamic hover effects.
 
-🎨 Design Highlights
-Smooth animations for hover effects.
-Consistent color scheme with a modern gradient for the hero section.
-Clean, minimalistic design optimized for readability.
+## 🎨 Design Highlights
+
+- Smooth animations for hover effects.
+- Consistent color scheme with a modern gradient for the hero section.
+- Clean, minimalistic design optimized for readability.
