@@ -34,9 +34,3 @@ Welcome to my personal portfolio website! This project showcases my skills, proj
 3. **Open the index.html file in your preferred web browser.Alternatively, you can use a local server to serve the files (e.g., using Live Server in VS Code).**
  
 
-
-
-
-
-
-
